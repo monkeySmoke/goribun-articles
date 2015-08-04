@@ -9,9 +9,9 @@
 
 # 为什么是Git？
 
-在[网](http://whygitisbetterthanx.com/)[上](http://git.or.cz/gitwiki/GitSvnComparsion)，有很多关于Git与其他源代码版本控制工具的优劣的透彻分析。在这里存在激烈的争论。作为一个开发者，与其他源代码版本控制相比，我更喜欢今天讨论的Git。Git真正改变了开发者关于合并与分支的思维模式。我也经历过经典的CVS/Subversion世界，合并与分支总是被认为有点吓人（当心合并冲突，它们会咬你！）并且在一段时间里，你只能每隔一段时间做一些事。
+在[网上](http://whygitisbetterthanx.com/)，有很多关于Git与其他源代码版本控制工具的优劣的透彻分析。在这里存在激烈的争论。作为一个开发者，与其他源代码版本控制相比，我更喜欢今天讨论的Git。Git真正地改变了开发者关于合并与分支的思维模式。我也经历过经典的CVS/Subversion时期，合并与分支总是被认为有点吓人（当心合并冲突，它们会咬你！）并且在一段时间里，你只能每隔一段时间做一些事。
 
-但是，使用Git后这些动作会变得廉价和简单，它们被认为是你的日常工作流的核心部分之一。例如，在有关CVS/Subversion的[书](http://svnbook.red-bean.com/)中，分支与合并时在后面的章节中首先讨论的（针对高级用户），而在[每一本](http://git-scm.com/book/zh/v2)[Git](http://pragprog.com/titles/tsgit/pragmatic-version-control-using-git)[书](https://github.com/progit/progit)中，它已经被包含在第三章了（基础知识）。
+但是，使用Git后这些动作会变得廉价和简单，它们被认为是你的日常工作流的核心部分之一。例如，在[有关CVS/Subversion的书](http://svnbook.red-bean.com/)中，分支与合并时在后面的章节中首先讨论的（针对高级用户），而在[每一本Git书](http://git-scm.com/book/zh/v2) 中，它已经被包含在第三章了（基础知识部分）。
 
 由于分支与合并的简单性和重复性，所以这不再是值得担心的事情了。比起其他的事，版本控制工具应该更注重对分支/合并的支持。
 
